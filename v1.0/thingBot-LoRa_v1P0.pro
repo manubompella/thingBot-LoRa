@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 update=12/30/2016 8:00:34 PM
+=======
+update=11/28/16 19:31:30
+>>>>>>> refs/remotes/automote/master
 version=1
 last_client=kicad
 [cvpcb]
@@ -8,7 +12,7 @@ NetIExt=net
 version=1
 [eeschema]
 version=1
-LibDir=../../kicad-libraries/library
+LibDir=../../kicad-library/library
 [eeschema/libraries]
 LibName1=power
 LibName2=device
@@ -43,6 +47,7 @@ LibName30=cp2102
 LibName31=edge_sma
 LibName32=RFM_module
 LibName33=xbee
+<<<<<<< HEAD
 [pcbnew]
 version=1
 PageLayoutDescrFile=C:/Users/bomma/Documents/GitHub/My Design templates/Pcb_Schematic_Worksheet.kicad_wks
@@ -65,6 +70,11 @@ ModuleOutlineThickness=0.15
 [schematic_editor]
 version=1
 PageLayoutDescrFile=C:/Users/bomma/Documents/GitHub/My Design templates/Pcb_Schematic_Worksheet.kicad_wks
+=======
+[schematic_editor]
+version=1
+PageLayoutDescrFile=P:/PCB Design/kicad-library/template/thingTronics/worksheet-default.kicad_wks
+>>>>>>> refs/remotes/automote/master
 PlotDirectoryName=
 SubpartIdSeparator=0
 SubpartFirstId=65
